@@ -1,6 +1,6 @@
 
 # Pulse
-
+NOTE: I had AI generate this, but it didn't have full context. I'm updating it, but it's very repititive. Nothing is pre-built yet or have a pre-order date.
 <div align="center">
 
 ![Pulse Series Logo](pulse(1).png)
@@ -53,7 +53,7 @@ A portable tablet optimized for daily use. Perfect for web browsing, productivit
 - FydeOS (Chrome OS alternative)
 
 **Availability:**
-- 🛒 **Pre-built:** Starting at $350 - [Order Now](#get-your-device)
+- 🛒 **Pre-built:** Coming 2026 - [SO yeah](#get-your-device)
 - 🔧 **DIY:** Build guide available - [View Docs](https://github.com/BeaconPro/pulse-tab)
 
 <br clear="right"/>
@@ -68,7 +68,7 @@ A portable tablet optimized for daily use. Perfect for web browsing, productivit
 A fully functional smartphone with cellular connectivity, GPS, and camera capabilities.
 
 **Planned Specs:**
-- 5-6" touchscreen display
+- 6-7" touchscreen display
 - Raspberry Pi 5
 - 4G LTE connectivity
 - Dual cameras
