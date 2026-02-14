@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Pulse Series Logo](https://via.placeholder.com/300x100/1a3a52/ff6b4a?text=Pulse+Series)
+![Pulse Series Logo](pulse(1).png)
 
 **Open-Source Raspberry Pi Computing Devices**
 
