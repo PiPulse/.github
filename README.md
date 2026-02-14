@@ -1,3 +1,4 @@
+
 # Pulse
 
 <div align="center">
@@ -8,7 +9,7 @@
 
 Build professional-grade tablets, phones, desktops, and laptops with Raspberry Pi
 
-[![MIT License](https://img.shields.io/badge/License-MIT-ff6b4a.svg)](LICENSE)
+![Creative Commons BY-NC-SA 4.0 License](https://img.shields.io/badge/License-Creative_Commons_BY_NC_SA_4.0-red)
 [![Raspberry Pi 5](https://img.shields.io/badge/Raspberry%20Pi-5-C51A4A?logo=raspberry-pi)](https://www.raspberrypi.com/)
 [![FydeOS](https://img.shields.io/badge/OS-FydeOS-1a3a52)](https://fydeos.io/)
 
