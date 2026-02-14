@@ -324,21 +324,24 @@ Pulse is community-driven and we welcome contributions!
 See our [Contributing Guide](CONTRIBUTING.md) for details.
 
 ---
-
 ## 📜 License
 
-All Pulse projects are released under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+All Pulse projects are released under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License** (CC BY-NC-SA 4.0).
 
 **This means you can:**
-- ✅ Use for personal or commercial projects
-- ✅ Modify and redistribute
-- ✅ Use in private projects
-- ✅ Sell devices you build
+- ✅ Build for personal use
+- ✅ Modify and improve designs
+- ✅ Share your modifications (must use same license)
+- ✅ Use for educational purposes
 
-**You must:**
-- Include the original license
-- Give credit to Pulse/BeaconPro
+**You cannot:**
+- ❌ Sell pre-built devices commercially
+- ❌ Manufacture and sell in bulk
+- ❌ Use in commercial products
+- ❌ Offer paid assembly services
 
+
+See the  file for full legal details.
 ---
 
 ## 🙏 Acknowledgments
