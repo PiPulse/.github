@@ -1,6 +1,0 @@
- <svg class="pulse-icon-wave" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-                                <!-- Concentric signal rings like the lighthouse beacon -->
-                                <circle cx="50" cy="50" r="12" fill="#ff6b4a"/>
-                                <circle cx="50" cy="50" r="24" fill="none" stroke="#ff6b4a" stroke-width="3" opacity="0.6"/>
-                                <circle cx="50" cy="50" r="36" fill="none" stroke="#1a3a52" stroke-width="3" opacity="0.4"/>
-                            </svg>
