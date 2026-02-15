@@ -53,8 +53,8 @@ A portable tablet optimized for daily use. Perfect for web browsing, productivit
 - FydeOS (Chrome OS alternative)
 
 **Availability:**
-- 🛒 **Pre-built:** Coming 2026 - [SO yeah](#get-your-device)
-- 🔧 **DIY:** Build guide available - [View Docs](https://github.com/BeaconPro/pulse-tab)
+- 🛒 **Pre-built:** Coming 2026
+- - 🔧 **DIY:** Build guide coming 2026
 
 <br clear="right"/>
 
@@ -71,11 +71,11 @@ A fully functional smartphone with cellular connectivity, GPS, and camera capabi
 - 6-7" touchscreen display
 - Raspberry Pi 5
 - 4G LTE connectivity
-- Dual cameras
+- Foldable camera
 - All-day battery
 
 **Availability:**
-- 🛒 **Pre-built:** Pre-order opening soon
+- 🛒 **Pre-built:** Coming 2027
 - 🔧 **DIY:** In development
 
 <br clear="right"/>
@@ -119,8 +119,31 @@ A silent, lightweight laptop for coding on the go.
 - Ultra-portable form factor
 
 **Availability:**
-- 🛒 **Pre-built:** Coming 2026
+- 🛒 **Pre-built:** Coming 2028
 - 🔧 **DIY:** Planned
+
+<br clear="right"/>
+
+---
+
+### [PulsePlay](https://github.com/PiPulse/pulseplay)
+**Pi 5 streaming box**
+
+<img align="right" width="180" src="https://via.placeholder.com/180x240/f5f1e8/1a3a52?text=Pulse+Tab">
+
+Your media hub with Kodi.
+
+**Specs:**
+- Decode H.264/HEVC/AV1
+- Raspberry Pi 5 (1 or 2GB RAM)
+- 64GB/128GB/256GB storage (microSD or NVMe SSD)
+- 8-10 hour battery life
+- Kodi built-in
+- Remote included with optional Flirc USB
+
+**Availability:**
+- 🛒 **Pre-built:** Coming 2026
+- - 🔧 **DIY:** Build guide coming 2026
 
 <br clear="right"/>
 
@@ -132,7 +155,7 @@ A silent, lightweight laptop for coding on the go.
 
 **Order a fully assembled, tested, and ready-to-use Pulse device.**
 
-#### Pulse Tab - Starting at $350
+#### Pulse Tab - Coming 2026
 
 Choose your configuration:
 
@@ -155,7 +178,6 @@ Choose your configuration:
 - ✅ 30-day warranty
 - ✅ Lifetime access to build documentation
 
-**Order Now:** [Coming Soon - Join Waitlist](#)
 
 ---
 
