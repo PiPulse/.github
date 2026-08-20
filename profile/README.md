@@ -46,11 +46,11 @@ Pulse creates professional-grade computing devices built on Raspberry Pi. Get a 
 A portable tablet optimized for daily use. Perfect for web browsing, productivity apps, and media consumption.
 
 **Specs:**
-- 7" capacitive touchscreen
-- Raspberry Pi 5 (8GB RAM)
-- 64GB/128GB/256GB storage (microSD or NVMe SSD)
-- 8-10 hour battery life
-- FydeOS (Chrome OS alternative)
+- 9" capacitive touchscreen
+- Raspberry Pi 4 (4GB RAM)
+- 64GB/128GB/256GB storage (microSD)
+- 3-5 hour battery life
+- Android 16
 
 **Availability:**
 - 🛒 **Pre-built:** Coming 2026
