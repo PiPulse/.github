@@ -11,7 +11,7 @@ Build professional-grade tablets, phones, desktops, and laptops with Raspberry P
 
 ![Creative Commons BY-NC-SA 4.0 License](https://img.shields.io/badge/License-Creative_Commons_BY_NC_SA_4.0-red)
 [![Raspberry Pi 5](https://img.shields.io/badge/Raspberry%20Pi-5-C51A4A?logo=raspberry-pi)](https://www.raspberrypi.com/)
-[![FydeOS](https://img.shields.io/badge/OS-FydeOS-1a3a52)](https://fydeos.io/)
+[![KonstaKANG Android 16](https://img.shields.io/badge/Android-16-lime?logo=android)](https://konstakang.com/devices/rpi4/LineageOS23/)
 
 [Explore Products](#-product-line) • [Get Started](#-getting-started) • [Community](#-community) • [Contribute](#-contributing)
 
@@ -38,7 +38,7 @@ Pulse creates professional-grade computing devices built on Raspberry Pi. Get a 
 
 ## 📱 Product Line
 
-### [Pulse Tab](https://github.com/BeaconPro/pulse-tab)
+### [Pulse Tab](https://github.com/PiPulse/pulse-tab)
 **7" Touchscreen Tablet**
 
 <img align="right" width="180" src="https://via.placeholder.com/180x240/f5f1e8/1a3a52?text=Pulse+Tab">
@@ -46,11 +46,11 @@ Pulse creates professional-grade computing devices built on Raspberry Pi. Get a 
 A portable tablet optimized for daily use. Perfect for web browsing, productivity apps, and media consumption.
 
 **Specs:**
-- 7" capacitive touchscreen
-- Raspberry Pi 5 (8GB RAM)
-- 64GB/128GB/256GB storage (microSD or NVMe SSD)
-- 8-10 hour battery life
-- FydeOS (Chrome OS alternative)
+- 9" capacitive touchscreen
+- Raspberry Pi 4 (4GB RAM)
+- 64GB/128GB storage (microSD or SATA SSD)
+- 3-5 hour battery life
+- Android 16
 
 **Availability:**
 - 🛒 **Pre-built:** Starting at $350 - [Order Now](#get-your-device)
