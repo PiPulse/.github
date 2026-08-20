@@ -10,8 +10,8 @@ NOTE: I had AI generate this, but it didn't have full context. I'm updating it, 
 Build professional-grade tablets, phones, desktops, and laptops with Raspberry Pi
 
 ![Creative Commons BY-NC-SA 4.0 License](https://img.shields.io/badge/License-Creative_Commons_BY_NC_SA_4.0-red)
-[![Raspberry Pi 5](https://img.shields.io/badge/Raspberry%20Pi-5-C51A4A?logo=raspberry-pi)](https://www.raspberrypi.com/)
-[![FydeOS](https://img.shields.io/badge/OS-FydeOS-1a3a52)](https://fydeos.io/)
+[![Raspberry Pi 4](https://img.shields.io/badge/Raspberry%20Pi-4-C51A4A?logo=raspberry-pi)](https://www.raspberrypi.com/)
+[![KonstaKANG Android 16](https://img.shields.io/badge/Android-16-lime?logo=android)](https://konstakang.com/devices/rpi4/LineageOS23/)
 
 [Explore Products](#-product-line) • [Get Started](#-getting-started) • [Community](#-community) • [Contribute](#-contributing)
 
